@@ -1,5 +1,5 @@
 # Medical Units Converter
-A python command-line tool that can be used to convert medical and clinical values into different units. Some examples are: glucose, cholesterol, blood, pressure, temperature, weight and height.
+A python command-line tool that can be used to convert medical and clinical values into different units. Some examples are: glucose, cholesterol, blood pressure, temperature, weight and height.
 
 ## Features
 - Interactive input for the clinical value
@@ -18,3 +18,8 @@ A python command-line tool that can be used to convert medical and clinical valu
 
 ## How to run
 python medical_units_converter.py
+
+## Sources used
+https://www.ncbi.nlm.nih.gov/books/NBK348987/
+https://www.ncbi.nlm.nih.gov/books/NBK83505/
+https://physics.nist.gov/cuu/pdf/sp811.pdf
