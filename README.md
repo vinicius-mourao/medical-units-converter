@@ -8,7 +8,7 @@ A python command-line tool that can be used to convert medical and clinical valu
 ## Conversions available
 - Glucose: mg/dL ↔ mmol/L
 - Cholesterol: mg/dL ↔ mmol/L
-- Blood pressure: mmHg ↔ cmH2O
+- Blood pressure: mmHg ↔ kPa
 - Temperature: °C ↔ °F
 - Weight: kg ↔ lb
 - Height: cm ↔ m ↔ ft
