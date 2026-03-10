@@ -187,7 +187,6 @@ def main():
             break
         else:
             print("Invalid choice. Please try again.")
-
 # Run the program
 show_menu()
 main()
